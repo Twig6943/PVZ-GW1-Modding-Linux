@@ -1,4 +1,4 @@
-1. Create an ntfs partition (You can also use your already existing)
+1. Create an ntfs partition (You can also use your already existing ntfs drives/partitions)
 
 (You can do this easily with gnome disks)
 
