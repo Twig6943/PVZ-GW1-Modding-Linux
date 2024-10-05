@@ -15,3 +15,13 @@ e.g. for Arch
 ```
 sudo pacman -S ntfs-3g
 ```
+
+3.Create a wine prefix from your desired wine manager (Heroic, bottles, lutris..)
+
+4.Install EA App and gw1 how you normally would
+
+5.Download and extract FMM/FE 1.0.6.3 inside the prefix
+
+6.Extract brekko's gw1 patch to (can be found in the [GW Frostbite modding server](https://discord.gg/HVhjRf8per) ) your FMM/FE installation and replace when asked
+
+7.Install your mods and press launch (should work in theory haven't tested myself but yeah)
