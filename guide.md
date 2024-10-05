@@ -13,5 +13,5 @@ Recommended partition size: 12-15 GBS
 e.g. for Arch
 
 ```
-sudo pacman -S
+sudo pacman -S ntfs-3g
 ```
